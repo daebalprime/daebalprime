@@ -1,7 +1,7 @@
 
 ## Hi there 👋
 
-📛 Daeyeon Kim (I prefer calling me 'daebal'😊)  
+📛 Daeyeon Kim (I prefer you call me 'daebal'😊)
 🇰🇷 Republic of Korea  
 🎂 Apr. 1993  
 📧 daebalprime@gmail.com  
