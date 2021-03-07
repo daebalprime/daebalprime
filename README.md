@@ -50,10 +50,12 @@
 ### Skills 🤹
 - Java(Studying...)
 - C(Intermediate)
-- [Algorithm](https://solved.ac/profile/daebalprime)(Intermediate)
+- [Algorithm](https://solved.ac/profile/daebalprime)(Intermediate)  
 - Python(Beginner)
 - Linux Kernel(Beginner)
-- HTML, CSS, JS(Beginner)
+- HTML, CSS, JS(Beginner)  
+	
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=daebalprime)](https://solved.ac/daebalprime)
 
 ### Readings 📖
 - Effective Java (Jan. 2021 ~ current)
