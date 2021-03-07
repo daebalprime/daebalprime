@@ -50,7 +50,7 @@
 ### Skills 🤹
 - Java(Studying...)
 - C(Intermediate)
-- Algorithm(Intermediate)
+- [Algorithm](https://solved.ac/profile/daebalprime)(Intermediate)
 - Python(Beginner)
 - Linux Kernel(Beginner)
 - HTML, CSS, JS(Beginner)
