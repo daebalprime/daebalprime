@@ -7,8 +7,7 @@
 📧 daebalprime@gmail.com  
 🌐 daebalprime.tistory.com  
 
-*Military Service Status Fulfilled (Dec. 2013 – Sep. 2015)*
-
+*Military Service Fulfilled (Dec. 2013 – Sep. 2015)*
 
 ### Education 🎓
 
@@ -22,7 +21,7 @@
 - **LIKELION @ UNIST (2018~2019)**  
 	Studying Django.
 - **GC Partners (2018)**  
-	Consulting a local small business in Ulsan.
+	Consulting a local small business in Ulsan. (NDA lifted in 2022)
 
 
 ### Projects 🤖
@@ -61,7 +60,11 @@
 
 ### Fun fact ⚡️
 - ️⚽️Big Fan of DAEGU FC🔵⚪️
-- 🚣[UNIST Rowing Club](http://rowing.unist.ac.kr/)
-- 🥾Camino de Santiago
-- 🚲Korea Cycling Road Grand Slam
+- 🚣[UNIST Rowing Club](http://rowing.unist.ac.kr/) 2017 Captain
+  - Inter-University Rowing Competition 2017 8+ Bronze Medalist 🥉
+  - Chungju Mayer Rowing Cup 2017 University 4+ Silver Medalist 🥈
+  - Busan Mayer Rowing Cup 2017 Indoor Rowing(10 Crews) Gold Medalist 🥇
+  - Changwon Rowing Competition 2018 @ Korea Naval Academy Indoor Rowing(4 Crews) Silver Medalist 🥈
+- 🥾Camino de Santiago (2018)
+- 🚲Korea Cycling Road Grand Slam - Total 1857km (2016~2020)
 
