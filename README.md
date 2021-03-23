@@ -17,9 +17,9 @@
 - **SSAFY (Samsung Software Academy for Youth) (2021~current)**  
 	Studying Java, Spring, Algorithm, etc.
 - **UNICSS Intern Researcher (2020)**  
-	Participated paper works as intern researcher.
+	Participated in paper works as intern researcher.
 - **LIKELION @ UNIST (2018~2019)**  
-	Studying Django.
+	Django and Frontend basic.
 - **GC Partners (2018)**  
 	Consulting a local small business in Ulsan. (NDA lifted in 2022)
 
