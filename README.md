@@ -40,6 +40,7 @@
 - Korean (Native)  
 - English (Intermediate)  
 	- TOEIC 845
+	- OPIc IM3
 
 ### Interest ❤️️
 - Backend
