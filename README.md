@@ -7,7 +7,7 @@
 📧 daebalprime@gmail.com  
 🌐 daebalprime.tistory.com  
 
-*Military Service Fulfilled (Dec. 2013 – Sep. 2015)*
+*Military Service Fulfilled (Dec. 2013 – Sep. 2015)* @ 2nd Ammunition Depot as nfantry, Signaller
 
 ### Education 🎓
 
