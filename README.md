@@ -7,7 +7,7 @@
 📧 daebalprime@gmail.com  
 🌐 daebalprime.tistory.com  
 
-*Military Service Fulfilled (Dec. 2013 – Sep. 2015)* @ 2nd Ammunition Depot as nfantry, Signaller
+*Military Service Fulfilled (Dec. 2013 – Sep. 2015)* @ 2 Ammunition Depot as nfantry, Signaller
 
 ### Education 🎓
 
@@ -68,8 +68,8 @@
  	- Chungju Mayer Rowing Cup 2017 University 4+ Silver Medalist 🥈
 	- Busan Mayer Rowing Cup 2017 Indoor Rowing(10 Crews) Gold Medalist 🥇
 	- Changwon Rowing Competition 2018 @ Korea Naval Academy Indoor Rowing(4 Crews) Silver Medalist 🥈  
-> "**김대연(전기전자컴퓨터 3) UNIST 조정부 주장**은 "여럿이 노 저어 앞으로 나아갈 때 마다 '함께'의 중요성을 느낀다"며 "태화강의 뜨거운 태양 아래 주말, 휴일마다 훈련하며 체력은 물론 공동체 의식과 배려심, 리더십을 키울 수 있었다"고 말했다."  
-> Source : [Joongang Daily](https://news.joins.com/article/21572484)  
+	> "**김대연(전기전자컴퓨터 3) UNIST 조정부 주장**은 "여럿이 노 저어 앞으로 나아갈 때 마다 '함께'의 중요성을 느낀다"며 "태화강의 뜨거운 태양 아래 주말, 휴일마다 훈련하며 체력은 물론 공동체 의식과 배려심, 리더십을 키울 수 있었다"고 말했다."  
+	> Source : [Joongang Daily](https://news.joins.com/article/21572484)  
 
 - 🥾Camino de Santiago (2018)
 - 🚲Korea Cycling Road Grand Slam - Total 1857km (2016~2020)
