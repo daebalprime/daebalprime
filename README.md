@@ -14,7 +14,7 @@
 - Bachelor of **💻 Computer Science and Engineering @ UNIST** (2013~2020)
 
 ### Experiences ☑
-- **SSAFY (Samsung Software Academy for Youth) (2021~current)**  
+- **SSAFY (Samsung Software Academy for Youth) (2021 ~ current)**  
 	Studying Java, Spring, Algorithm, etc.
 - **UNICSS Intern Researcher (2020)**  
 	Participated in paper works as intern researcher.
@@ -25,8 +25,8 @@
 
 
 ### Projects 🤖
-- **Football️ chants in COVID-19 Era (in progress)**  
-	Based on Django and basic sound dubbing by using pydub.
+- **Dating Apps with some fancy ideas** (21.06 ~ )
+- **HappyHouse Project (2021.05) **
 - **OS Level Supports for Deferred Free to Prevent Use-After-Free (2020)**  
 	 Write hook library and a part of Linux Kernel Module , analyze standard C library memory allocator and benchmark our mitigation's performance by CPU2017.  
 	 *Under the guidance of advisor [**Prof.Moon**](https://hyungon.unist.ac.kr/) @ UNICSS.*
@@ -59,7 +59,9 @@
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=daebalprime)](https://solved.ac/daebalprime)
 
 ### Readings 📖
-- Effective Java (Jan. 2021 ~ current)
+[Reading Study](https://github.com/JavaBookStudy/JavaBook)
+- Toby's Spring 3.1 (21.06 ~ )
+- Effective Java (21.01 ~ 21.06)
 
 ### Fun fact ⚡️
 - ️⚽️Big Fan of DAEGU FC🔵⚪️
