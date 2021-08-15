@@ -62,12 +62,12 @@ NICE TO MEET YOU!
 - Optimization (TODO)
 
 ### Skills 🤹
-#### 🔥 I utilize these stacks well/in dev!
+#### Utilize these stacks well/in dev! 🔥
 - Java
-- [Algorithm Problem Solving](https://solved.ac/profile/daebalprime)(Intermediate)  
+- [Algorithm Problem Solving](https://solved.ac/profile/daebalprime)
 - Spring Boot
 
-#### 🔀 not skillful, but okay with Google and StackOverFlow!
+#### Not skillful, but okay with Google and StackOverFlow! 🔀 
 - Linux Kernel and Shell Programming
 - SQL
 - Shell Script
@@ -75,10 +75,22 @@ NICE TO MEET YOU!
 - C
 - MyBatis
 
-#### 🌱 I understand other's codes written on these stacks!
+#### Understand other's codes written on these stacks! 🌱 
 - HTML/CSS
 - JS(~ES8)
 - Vue 3
+
+#### Plan to study in near future
+- DevOPs Basics
+	- Docker
+	- CI/CD
+	- Kubernetes
+- AWS Certification
+- Hibernate
+- SQL Query Optimization
+- NoSQL
+- Redis
+- Advanced JWT 
 	
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=daebalprime)](https://solved.ac/daebalprime)
 
