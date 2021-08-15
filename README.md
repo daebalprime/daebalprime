@@ -1,12 +1,13 @@
 # Introducing🙇
 
 Hola ¿Que Tal? 
-Trying to study deep and wide to get computational intuitions.
-Pay attention to everything around me, even slightest things. 
-Think deep to penetrate causes behind phenomenons meet the eye. 
-Love to communicate with ppls and get interested everyones experiences, wisdoms and values.
-Ready to debates to progress, not the argues to offend counterparts.
-Explore the world full with the wonders and differences.
+
+- Trying to study deep and wide to get computational intuitions.  
+- Pay attention to everything around me, even slightest things.   
+- Think deep to penetrate causes behind phenomenons meet the eye.   
+- Love to communicate with ppls and get interested everyones experiences, wisdoms and values.  
+- Ready to debates to progress, not the argues to offend counterparts.  
+- Explore the world full with the wonders and differences.  
 
 NICE TO MEET YOU!
 
