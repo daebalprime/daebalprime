@@ -10,7 +10,7 @@ Explore the world full with the wonders and differences.
 
 NICE TO MEET YOU!
 
-📛 Daeyeon Kim (I prefer you call me 'daebal'😊)
+📛 Daeyeon Kim (call me 'daebal'😊)
 🇰🇷 Republic of Korea  
 🎂 Apr. 1993  
 📧 daebalprime@gmail.com  
@@ -24,7 +24,7 @@ NICE TO MEET YOU!
 
 ### Experiences ☑
 - **SSAFY (Samsung Software Academy for Youth) (2021 ~ current)**  
-	Studying Java, Spring, Algorithm, etc.
+	Studying Java, Spring, Algorithm, Projects.
 - **UNICSS Intern Researcher (2020)**  
 	Participated in paper works as intern researcher.
 - **LIKELION @ UNIST (2018~2019)**  
@@ -73,6 +73,7 @@ NICE TO MEET YOU!
 - Shell Script
 - Python
 - C
+- MyBatis
 
 #### 🌱 I understand other's codes written on these stacks!
 - HTML/CSS
