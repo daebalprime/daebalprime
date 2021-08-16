@@ -11,8 +11,8 @@ Hola ¿Que Tal?
 
 NICE TO MEET YOU!
 
-📛 Daeyeon Kim (call me 'daebal'😊)
-🇰🇷 Republic of Korea  
+📛 Daeyeon Kim (call me 'daebal'😊)  
+:kr: Republic of Korea  
 🎂 Apr. 1993  
 📧 daebalprime@gmail.com  
 🌐 daebalprime.tistory.com  
@@ -36,10 +36,10 @@ NICE TO MEET YOU!
 
 ### Projects 🤖
 - **???(2021.??)**
-- **Talk! Talk! Talk!(2021.07~2021.08)**
-	 Take a role as Backend Developer. I'd implemented Chat/WebRTC sockets and skeleton code for Frontend, some part of REST API.
-	 Spring Boot/PostgreSQL/WebSocket/Swagger/REST API.
-	 *This project conducted under the Samsung Software Academy For Youth 5th*
+- **Talk! Talk! Talk!(2021.07~2021.08)**  
+	 Take a role as Backend Developer. I'd implemented Chat/WebRTC sockets and skeleton code for Frontend, some part of REST API.  
+	 Spring Boot/PostgreSQL/WebSocket/Swagger/REST API.  
+	 *This project conducted under the Samsung Software Academy For Youth 5th*  
 - **HappyHouse Project (2021.05)**
 - **OS Level Supports for Deferred Free to Prevent Use-After-Free (2020)**  
 	 Write hook library and a part of Linux Kernel Module , analyze standard C library memory allocator and benchmark our mitigation's performance by CPU2017.  
