@@ -23,8 +23,8 @@ NICE TO MEET YOU!
 
 - Bachelor of **💻 Computer Science and Engineering @ UNIST** (2013~2020)
 
-### Experiences ☑
-- **SSAFY (Samsung Software Academy for Youth) (2021 ~ current)**  
+### Experiences ☑ 
+- **SSAFY (Samsung Software Academy for Youth) (2021.01~2021.11)**  
 	Studying Java, Spring, Algorithm, Projects.
 - **UNICSS Intern Researcher (2020)**  
 	Participated in paper works as intern researcher.
@@ -35,17 +35,16 @@ NICE TO MEET YOU!
 
 
 ### Projects 🤖
-- **???(2021.??)**
+- **Hello Buddy(2021.09~2021.11)**
+	Take a role as Backend Developer. DB Schema Design, Spring Boot Development, etc.
+	 *This project conducted under the Samsung Software Academy For Youth 5th*  
 - **Talk! Talk! Talk!(2021.07~2021.08)**  
 	 Take a role as Backend Developer. I'd implemented Chat/WebRTC sockets and skeleton code for Frontend, some part of REST API.  
 	 Spring Boot/PostgreSQL/WebSocket/Swagger/REST API.  
 	 *This project conducted under the Samsung Software Academy For Youth 5th*  
-- **HappyHouse Project (2021.05)**
 - **OS Level Supports for Deferred Free to Prevent Use-After-Free (2020)**  
 	 Write hook library and a part of Linux Kernel Module , analyze standard C library memory allocator and benchmark our mitigation's performance by CPU2017.  
 	 *Under the guidance of advisor [**Prof.Moon**](https://hyungon.unist.ac.kr/) @ UNICSS.*
-- **Cucumber Haters (오이척살단, 2019)**  
-	A web project displays instant foods containing cucumber based on Django. Submitted to UNIST Hackathon.
 - **[Rowing Posture Correction Android App](https://github.com/daebalprime/UNI19FF_CSE465_FinalProject) (2018)**  
 	Novice rowers often struggle to keep body in right angle at end of drive and recovery. Attach a phone on the chest to collect angle of upper body. Alert rowers by ringing sound when rowers recline his/her body too much.  Implemented collecting sensor data via Android API, basic compliment sensor.  
 	*This project conducted under the Mobile Computing course @ UNIST.*
@@ -58,9 +57,7 @@ NICE TO MEET YOU!
 
 ### Interest ❤️️
 - Backend
-- Secure Coding (Studying)
 - Collaboration methodology
-- Optimization (TODO)
 
 ### Skills 🤹
 #### Utilize these stacks well/in dev! 🔥
@@ -97,7 +94,7 @@ NICE TO MEET YOU!
 
 ### Readings 📖
 [Reading Study](https://github.com/JavaBookStudy/JavaBook)
-- Toby's Spring 3.1 (21.06 ~ )
+- Toby's Spring 3.1 (21.06 ~ 21.11)
 - Effective Java (21.01 ~ 21.06)
 
 ### Fun fact ⚡️
@@ -117,4 +114,3 @@ NICE TO MEET YOU!
 	- ⚫ Glorious GMMK PRO + Gateron Ink Black + Dot Keycaps
 	- ⚪ Hansung GK893B Noppoo 50g + GRÆN Keycap
 	- 🎱 Everglide Jade Black Switch
-
