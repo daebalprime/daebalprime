@@ -1,14 +1,6 @@
 # Introducing🙇
 
 Hola ¿Que Tal? 
-
-- Trying to study wide to get computational intuitions.  
-- Pay attention to everything around me, even slightest things.   
-- Think deep to penetrate causes behind phenomenons meet the eye.   
-- Love to communicate with ppls and get interested other's experiences, wisdoms and values.  
-- Ready to debate to progress.  
-- Explore the world full of the wonders and differences.  
-
 NICE TO MEET YOU!
 
 📛 Daeyeon Kim (call me 'daebal'😊)  
@@ -17,7 +9,11 @@ NICE TO MEET YOU!
 📧 daebalprime@gmail.com  
 🌐 daebalprime.tistory.com  
 
-*Military Service Fulfilled (Dec. 2013 – Sep. 2015)* @ 2 Ammunition Depot;
+*Military Service Fulfilled (Dec. 2013 – Sep. 2015)*
+
+### Career 👔
+
+- **LG CNS** as *Infra Architecture Associate* @ Sangam, DDMC (2021.01~)
 
 ### Education 🎓
 
@@ -56,39 +52,29 @@ NICE TO MEET YOU!
 	- OPIc IM3
 
 ### Interest ❤️️
-- Backend
-- Collaboration methodology
+- Network
+- OS
+- CI/CD
+- Kubernetes
+- Infrastructure as Code
+- Public/Private Cloud
 
 ### Skills 🤹
-#### Utilize these stacks well/in dev! 🔥
-- Java
-- [Algorithm Problem Solving](https://solved.ac/profile/daebalprime)
-- Spring Boot
-
-#### Not skillful, but okay with Google and StackOverFlow! 🔀 
-- Linux Kernel and Shell Programming
-- SQL
-- Shell Script
-- Python
-- C
-- MyBatis
-
-#### Understand other's codes written on these stacks! 🌱 
-- HTML/CSS
-- JS(~ES8)
-- Vue 3
+- 🌟🌟🌟 Java
+- 🌟🌟🌟 [Algorithm Problem Solving](https://solved.ac/profile/daebalprime)
+- 🌟🌟🌟 Spring Boot
+- ⭐⭐ Linux Kernel and Shell Programming
+- ⭐⭐ SQL
+- ⭐ Shell Script
+- ⭐ Python
+- ⭐ C
 
 #### Plan to study in near future
-- DevOPs Basics
-	- Docker
-	- CI/CD
-	- Kubernetes
+- Docker
+- CI/CD
+- Kubernetes
 - AWS Certification
-- Hibernate
 - SQL Query Optimization
-- NoSQL
-- Redis
-- Advanced JWT 
 	
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=daebalprime)](https://solved.ac/daebalprime)
 
