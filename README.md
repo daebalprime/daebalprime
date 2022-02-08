@@ -13,7 +13,9 @@ NICE TO MEET YOU!
 
 ### Career 👔
 
-- **LG CNS** as *Infra Architecture Associate* @ Sangam, DDMC (2021.01~)
+- **LG CNS** (2021.01~)  
+	 as *Infra Architecture Associate*  
+	 @ Sangam, DDMC 
 
 ### Education 🎓
 
