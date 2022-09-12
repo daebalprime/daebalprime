@@ -1,4 +1,4 @@
-Z# Introducing🙇
+# Introducing🙇
 X
 📛 Daeyeon Kim (call me 'daebal'😊)  
 :kr: Republic of Korea  
