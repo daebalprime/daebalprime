@@ -1,24 +1,17 @@
-# Introducing🙇
-
-Hola ¿Que Tal? 
-NICE TO MEET YOU!
-
+Z# Introducing🙇
+X
 📛 Daeyeon Kim (call me 'daebal'😊)  
 :kr: Republic of Korea  
 🎂 Apr. 1993  
 📧 daebalprime@gmail.com  
 🌐 daebalprime.tistory.com  
 
-*Military Service Fulfilled (Dec. 2013 – Sep. 2015)*
-
 ### Career 👔
-
 - **LG CNS** (2021.01~)  
 	 as *Infra Architecture Associate*  
-	 @ Sangam, DDMC 
+	 @ DMC, Seoul
 
 ### Education 🎓
-
 - Bachelor of **💻 Computer Science and Engineering @ UNIST** (2013~2020)
 
 ### Experiences ☑ 
@@ -33,13 +26,14 @@ NICE TO MEET YOU!
 
 
 ### Projects 🤖
+#### Personal
 - **Hello Buddy(2021.09~2021.11)**
 	Take a role as Backend Developer. DB Schema Design, Spring Boot Development, etc.
-	 *This project conducted under the Samsung Software Academy For Youth 5th*  
+	 *This project was conducted under the Samsung Software Academy For Youth 5th*  
 - **Talk! Talk! Talk!(2021.07~2021.08)**  
 	 Take a role as Backend Developer. I'd implemented Chat/WebRTC sockets and skeleton code for Frontend, some part of REST API.  
 	 Spring Boot/PostgreSQL/WebSocket/Swagger/REST API.  
-	 *This project conducted under the Samsung Software Academy For Youth 5th*  
+	 *This project was conducted under the Samsung Software Academy For Youth 5th*  
 - **OS Level Supports for Deferred Free to Prevent Use-After-Free (2020)**  
 	 Write hook library and a part of Linux Kernel Module , analyze standard C library memory allocator and benchmark our mitigation's performance by CPU2017.  
 	 *Under the guidance of advisor [**Prof.Moon**](https://hyungon.unist.ac.kr/) @ UNICSS.*
@@ -62,11 +56,11 @@ NICE TO MEET YOU!
 - Public/Private Cloud
 
 ### Skills 🤹
-- 🌟🌟🌟 Java
 - 🌟🌟🌟 [Algorithm Problem Solving](https://solved.ac/profile/daebalprime)
-- 🌟🌟🌟 Spring Boot
-- ⭐⭐ Linux Kernel and Shell Programming
-- ⭐⭐ SQL
+- ⭐⭐ Java
+- ⭐⭐ Spring Boot
+- ⭐ Oracle Cloud
+- ⭐ Ansible/Terraform 
 - ⭐ Shell Script
 - ⭐ Python
 - ⭐ C
@@ -85,16 +79,14 @@ NICE TO MEET YOU!
 - Toby's Spring 3.1 (21.06 ~ 21.11)
 - Effective Java (21.01 ~ 21.06)
 
-### Fun fact ⚡️
+### Misc⚡️
 - ️⚽️Big Fan of DAEGU FC🔵⚪️
-	- Hold breath till DAEGU FC takes KLEAGUE 1 Championship.😳
 - 🚣[UNIST Rowing Club](http://rowing.unist.ac.kr/) 2017 Captain  
 	> "**김대연(전기전자컴퓨터 3) UNIST 조정부 주장**은 "여럿이 노 저어 앞으로 나아갈 때 마다 '함께'의 중요성을 느낀다"며 "태화강의 뜨거운 태양 아래 주말, 휴일마다 훈련하며 체력은 물론 공동체 의식과 배려심, 리더십을 키울 수 있었다"고 말했다."  
 	> Source : [Joongang Daily](https://news.joins.com/article/21572484) 
   	- Inter-University Rowing Competition 2017 8+ Bronze Medalist 🥉
  	- Chungju Mayer Rowing Cup 2017 University 4+ Silver Medalist 🥈
-	- Busan Mayer Rowing Cup 2017 Indoor Rowing(10 Crews) Gold Medalist 🥇
-	- Changwon Rowing Competition 2018 @ Korea Naval Academy Indoor Rowing(4 Crews) Silver Medalist 🥈  
+	- Busan Mayer Rowing Cup 2017 Indoor Rowing(10 Crews) Gold Medalist 🥇  
 - 🥾Camino de Santiago (2018)
 - 🚲Korea Cycling Road Grand Slam - Total 1857km (2016~2020)
 - ⌨️Mechanical Keyboard Enthusiast
