@@ -4,10 +4,9 @@ X
 :kr: Republic of Korea  
 🎂 Apr. 1993  
 📧 daebalprime@gmail.com  
-🌐 daebalprime.tistory.com  
 
 ### Career 👔
-- **LG CNS** (2021.01~)  
+- **LG CNS** (2022.01~)  
 	 as *Infra Architecture Associate*  
 	 @ DMC, Seoul
 
@@ -50,27 +49,26 @@ X
 ### Interest ❤️️
 - Network
 - OS
-- CI/CD
-- Kubernetes
 - Infrastructure as Code
-- Public/Private Cloud
+- NAVER Cloud Platform
+- 🤑
+- Love, Peace, Freedom
 
 ### Skills 🤹
 - 🌟🌟🌟 [Algorithm Problem Solving](https://solved.ac/profile/daebalprime)
-- ⭐⭐ Java
-- ⭐⭐ Spring Boot
+- ⭐⭐ Docker
+- ⭐ Cisco Networking
 - ⭐ Oracle Cloud
 - ⭐ Ansible/Terraform 
-- ⭐ Shell Script
+- ⭐ Shell Scripting
 - ⭐ Python
-- ⭐ C
+- ⭐ Java
 
 #### Plan to study in near future
-- Docker
+
 - CI/CD
-- Kubernetes
+- Kubernetes/OpenShift
 - AWS Certification
-- SQL Query Optimization
 	
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=daebalprime)](https://solved.ac/daebalprime)
 
@@ -84,13 +82,15 @@ X
 - 🚣[UNIST Rowing Club](http://rowing.unist.ac.kr/) 2017 Captain  
 	> "**김대연(전기전자컴퓨터 3) UNIST 조정부 주장**은 "여럿이 노 저어 앞으로 나아갈 때 마다 '함께'의 중요성을 느낀다"며 "태화강의 뜨거운 태양 아래 주말, 휴일마다 훈련하며 체력은 물론 공동체 의식과 배려심, 리더십을 키울 수 있었다"고 말했다."  
 	> Source : [Joongang Daily](https://news.joins.com/article/21572484) 
-  	- Inter-University Rowing Competition 2017 8+ Bronze Medalist 🥉
- 	- Chungju Mayer Rowing Cup 2017 University 4+ Silver Medalist 🥈
-	- Busan Mayer Rowing Cup 2017 Indoor Rowing(10 Crews) Gold Medalist 🥇  
+  	- Inter-University Rowing Competition 2017 8+ 🥉
+ 	- Chungju Mayer Rowing Cup 2017 University 4+ 🥈
+	- Busan Mayer Rowing Cup 2017 Indoor Rowing(10 Crews) 🥇  
 - 🥾Camino de Santiago (2018)
-- 🚲Korea Cycling Road Grand Slam - Total 1857km (2016~2020)
+- 🚲Korea Cycling Road Grand Slam 1857km (2016~2020)
 - ⌨️Mechanical Keyboard Enthusiast
-	- 🟢 Archon AK87 + Kailh Box Jade + Minimalist Japanese Character Keycaps
-	- ⚫ Glorious GMMK PRO + Gateron Ink Black + Dot Keycaps
-	- ⚪ Hansung GK893B Noppoo 50g + GRÆN Keycap
-	- 🎱 Everglide Jade Black Switch
+- 🎤Seoul Migrant Worker Project
+
+### Outlink
+- [Travel log on Instagram](https://instagram.com/daebaleverywhere)
+- [Blog](https://daebalpri.me)
+- [Linkedin](https://www.linkedin.com/in/daebalprime)
