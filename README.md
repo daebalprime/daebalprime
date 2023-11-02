@@ -7,8 +7,7 @@ X
 
 ### Career 👔
 - **LG CNS** (2022.01~)  
-	 as *Infra Architecture Associate*  
-	 @ DMC, Seoul
+	 as *Infra Architecture Associate*. GPU Server, Network, Hypervisor, Storage, OS.
 
 ### Education 🎓
 - Bachelor of **💻 Computer Science and Engineering @ UNIST** (2013~2020)
@@ -26,7 +25,7 @@ X
 
 ### Projects 🤖
 #### Personal
-- **OS Level Supports for Deferred Free to Prevent Use-After-Free (2020)**  
+- [**Operating System Support-Based Prevention Mechanism for Use-After-Free Attacks on the Glibc Memory Allocator(2023)**](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11464985)
 	 Code a hook library and a part of Linux Kernel Module , analyze standard C library memory allocator and benchmark our mitigation's performance by CPU2017.  
 	 *Under the guidance of advisor [**Prof.Moon**](https://hyungon.unist.ac.kr/) @ UNICSS.*
 
