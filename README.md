@@ -1,8 +1,5 @@
 # Introducing🙇
-X
-📛 Daeyeon Kim
-:kr: Republic of Korea  
-🎂 Apr. 1993  
+📛 Daeyeon Kim  
 📧 iam@daebalprime.kr
 
 ### Career 👔
