@@ -1,12 +1,12 @@
 # Introducing🙇
 X
-📛 Daeyeon Kim (call me 'daebal'😊)  
+📛 Daeyeon Kim
 :kr: Republic of Korea  
 🎂 Apr. 1993  
-📧 daebalprime@gmail.com  
+📧 iam@daebalprime.kr
 
 ### Career 👔
-- **LG CNS** (2022.01~)  
+#### **LG CNS** (2022.01~)  
 	 as *AI Infra Architecture Specialist*.
   - AI Training/Inference On-Premise design, implementation, pre-sales.
   - Network/Hypervisor/Storage
@@ -17,23 +17,5 @@ X
 ### Education 🎓
 - Bachelor of **💻 Computer Science and Engineering @ UNIST** (2013~2020)
 
-### Experiences ☑ 
-- **SSAFY (Samsung Software Academy for Youth) (2021.01~2021.11)**  
-	Studying Java, Spring, Algorithm, Projects.
-- **UNICSS Intern Researcher (2020)**  
-	Participated in paper works as intern researcher.
-- **LIKELION @ UNIST (2018~2019)**  
-	Django and Frontend basic.
-- **GC Partners (2018)**  
-	Consulting a local business located in Ulsan.
-
-### Projects 🤖
-#### Personal
-- [**Operating System Support-Based Prevention Mechanism for Use-After-Free Attacks on the Glibc Memory Allocator(2023)**](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11464985)
-	 Code a hook library and a part of Linux Kernel Module , analyze standard C library memory allocator and benchmark our mitigation's performance by CPU2017.  
-	 *Under the guidance of advisor [**Prof.Moon**](https://hyungon.unist.ac.kr/) @ UNICSS.*
-
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=daebalprime)](https://solved.ac/daebalprime)
-
 ### Outlink
-(blog.daebalprime.kr)
+[blog.daebalprime.kr](https://blog.daebalprime.kr)
